@@ -6,3 +6,8 @@
 #####   Telegram Channels for job search:   https://www.notion.so/C-56fd13d369464ece83ca40258e3fdc87
 #####   Free QA Courses:  https://www.notion.so/QA-bd180d26a2cf47aead2353fbcb055785
 #####   Free Python Courses:   https://www.notion.so/Python-ababc5686644447593062638f4cd7efb
+#####   Free Data Science Courses: https://www.notion.so/Data-Science-2368e32e41594696b132cfb8889f3783
+#####   Free Java Courses:  https://www.notion.so/Java-Tech-0b0c4e59cfed4245ac1f9b7fa991bc55
+#####   Free Product Management Courses: https://www.notion.so/Free-courses-Product-Management-c9423c07b65a4326afb4205eae56d7a9
+#####   Free UI/UX Design:  https://www.notion.so/UI-UX-design-5aea4a225c8340b09e2d3186b5c3c7f7
+
