@@ -11,14 +11,14 @@
 #####   Free Product Management Courses: https://www.notion.so/Free-courses-Product-Management-c9423c07b65a4326afb4205eae56d7a9
 #####   Free UI/UX Design courses:  https://www.notion.so/UI-UX-design-5aea4a225c8340b09e2d3186b5c3c7f7
 
-**По резюме, summary, cover letter, linkedIn:**
+# **По резюме, summary, cover letter, linkedIn:**
 
 1. **10 ошибок в LinkedIN профиле, которые пора исправить**  https://habr.com/ru/articles/727466/
 2. **Краткий гайд: резюме для Data Scientist** https://habr.com/ru/articles/724766/
 3. **Summary для резюме Data Scientist**  https://habr.com/ru/articles/700290/
 4. **Cover Letter для Data Scientist**  https://habr.com/ru/articles/577410/
 
-**Bonus:** 
+# **Bonus:** 
 
 1. **Как выучить английский быстро и с удовольствием 25 000 читателей:** https://habr.com/ru/articles/581056/
 
